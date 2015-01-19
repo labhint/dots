@@ -9,6 +9,10 @@ apps=(
   alfred
   dropbox
   google-chrome
+  coda
+  virtualbox
+  vmware-fusion
+  vagrant
   qlcolorcode
   screenflick
   slack
@@ -22,11 +26,10 @@ apps=(
   vagrant
   arq
   flash
-  iterm2
+  iterm2-beta
   qlprettypatch
   shiori
   sublime-text3
-  virtualbox
   atom
   flux
   mailbox
@@ -41,7 +44,6 @@ apps=(
   skype
   transmission
   apikitchen
-  mamp
 )
 
 # fonts
