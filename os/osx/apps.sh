@@ -67,7 +67,7 @@ main() {
 
   # Install homebrew-cask
   echo "installing cask..."
-  brew tap phinze/homebrew-cask
+  brew tap caskroom/homebrew-cask
   brew install brew-cask
 
   # Tap alternative versions
